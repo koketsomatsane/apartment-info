@@ -1,0 +1,5 @@
+KDF 234FS|Toyota Corolla|assets/vehicle_photo.jpg|2018|Inactive
+GCD 123GP|Ford Mustang|assets/mustang.jpg|2021|Active
+HUT 335MP|Hyundai i30|assets/hyundai.jpg|2022|In Maintenance
+HJK 456WC|Range Rover|assets/rover.jpg|2015|Active
+FXR 890NW|Jetta TSI|assets/jetta.jpeg|2020|In Maintenance
